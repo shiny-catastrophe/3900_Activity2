@@ -10,6 +10,10 @@ a {
 
 img {
 max-width: 100%;
+height: auto;
+display: block;
+max-height: 300px;
+object-fit: contain;
 
 }
 
