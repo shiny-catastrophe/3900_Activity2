@@ -9,10 +9,10 @@ a {
  }
 
 img {
-max-width: 100%;
+max-width: 50%;
 height: auto;
 display: block;
-max-height: 300px;
+max-height: 100px;
 object-fit: contain;
 
 }
